@@ -15,3 +15,6 @@
 注入序列的来源可以是定时器，EXTI11还有软件启动
 传入之前先检查标志位JEOC是否执行完毕
 注入序列执行之后会将结果传入JDRx
+
+![alt text](94a269ce6eacfa093acdf3e1fe5dfa77.png)
+![alt text](d2ed148880e363da27e153682b68b803.jpg)
