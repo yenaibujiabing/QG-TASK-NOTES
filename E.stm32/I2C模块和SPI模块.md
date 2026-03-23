@@ -1,4 +1,4 @@
-#I2C
+# I2C
 
 I2C模块大致也是需要先配置GPIO模块然后再配置I2C的参数
 I2C的标志位：BUSY,SB,AF,ADDR,BTF,TXE,ACK,RXNE
@@ -12,7 +12,7 @@ I2C具体过程就是读数据还有写数据：
 ![alt text](7155539cffa66448342bad6f9e6fded6.png)
 ![alt text](7155539cffa66448342bad6f9e6fded6.png)
 
-#SPI
+# SPI
 SPI相当于不需要寻址等答复的阶段所以就比I2C简单一点
 
 首先先配置GPIO模块然后再配置SPI的参数
